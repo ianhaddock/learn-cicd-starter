@@ -1,4 +1,4 @@
-![ci tests badge](https://github.com/ianhaddock/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
+[![ci tests badge](https://github.com/ianhaddock/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/ianhaddock/learn-cicd-starter/actions)
 
 # learn-cicd-starter (Notely)
 
